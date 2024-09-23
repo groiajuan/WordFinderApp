@@ -1,0 +1,3 @@
+﻿using WordSearch;
+
+Example.ExecuteExample();
